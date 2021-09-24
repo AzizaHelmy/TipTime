@@ -1,9 +1,9 @@
 # TipTime
 The Tip Time app  allows the user to enter the cost of the service , select the tip percentage and choose whether the tip should be rounded up or not and finally  calculate the tip amount.
 # Components:
-# EditText 
+* EditText 
  to enter the cost of the service
-# RadioButtons
+* RadioButtons
  to select the tip percentage
 # Switch 
  to choose whether the tip should be rounded up or not
